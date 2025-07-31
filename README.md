@@ -50,7 +50,7 @@ You can use royalty-free sounds or record your own.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simon-game.git
+   git clone https://github.com/yourusername/Simon-Game.git
    cd simon-game
    ```
 
