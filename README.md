@@ -66,6 +66,17 @@ Pull requests and improvements are welcome! Feel free to fork and enhance the ga
 
 ---
 
+## 👤 Creator
+
+**Ardhaya Johari**  
+🔗 [GitHub](https://github.com/Ardhaya-Johari)  
+📧 ardhayasaxena3897@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ardhaya-johari-819275321/)
+
+Created with ❤️ by Ardhaya
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
